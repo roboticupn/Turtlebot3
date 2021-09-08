@@ -1,7 +1,7 @@
 # Turtlebot 3
 Repositories of Turtlebot 3
 
-Di dalam repositori ini terdapat beberapa folder yaitu
+In this repository there are several folders, namely:
 
 # 1. Auto Race
 # 2. Blob Tracking
